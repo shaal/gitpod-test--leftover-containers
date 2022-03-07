@@ -3,3 +3,4 @@ image: drupalpod/drupalpod-gitpod-base:20220218-optimized
 tasks:
   - init: |
       docker run --rm hello-world
+      ddev debug download-images

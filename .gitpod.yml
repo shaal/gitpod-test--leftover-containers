@@ -1,0 +1,3 @@
+tasks:
+  - init: |
+      docker run --rm hello-world

@@ -1,0 +1,4 @@
+[2022-03-08 17:44:57.259] [GIT  ] [/workspace/gitpod-test--leftover-containers/logs] git show --textconv :./ -- • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv :./ -- • bad revision ':./' • 12 ms
+
+[2022-03-08 17:44:57.269] [GIT  ] [/workspace/gitpod-test--leftover-containers/logs] git show --textconv HEAD:./ -- • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv HEAD:./ -- • bad revision 'HEAD:./' • 9 ms
+

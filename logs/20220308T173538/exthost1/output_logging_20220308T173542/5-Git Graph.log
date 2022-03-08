@@ -1,0 +1,120 @@
+[2022-03-08 17:35:54.527] Starting Git Graph ...
+[2022-03-08 17:35:54.538] Using git (version: 2.35.1)
+[2022-03-08 17:35:54.546] Started Git Graph - Ready to use!
+[2022-03-08 17:35:54.547] Searching workspace for new repos ...
+[2022-03-08 17:35:54.555] > git rev-parse --show-toplevel
+[2022-03-08 17:35:54.558] Added new repo: /workspace/gitpod-test--leftover-containers
+[2022-03-08 17:35:54.559] Completed searching workspace for new repos
+[2022-03-08 17:35:54.559] Showing "Git Graph" Status Bar Item
+[2022-03-08 17:35:54.660] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2022-03-08 17:39:28.877] Created Git Graph View
+[2022-03-08 17:39:31.165] > git branch -a --no-color
+[2022-03-08 17:39:31.174] > git remote
+[2022-03-08 17:39:31.182] > git reflog --format=... refs/stash --
+[2022-03-08 17:39:31.186] Started watching repo: /workspace/gitpod-test--leftover-containers
+[2022-03-08 17:39:31.392] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:39:31.402] > git show-ref -d --head
+[2022-03-08 17:39:31.413] > git status --untracked-files=all --porcelain
+[2022-03-08 17:39:31.578] > git --no-pager config --list -z --includes
+[2022-03-08 17:39:31.585] > git --no-pager config --list -z --includes --local
+[2022-03-08 17:39:31.592] > git --no-pager config --list -z --includes --global
+[2022-03-08 17:39:49.961] > git branch -a --no-color
+[2022-03-08 17:39:49.968] > git remote
+[2022-03-08 17:39:49.974] > git reflog --format=... refs/stash --
+[2022-03-08 17:39:50.065] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:39:50.072] > git show-ref -d --head
+[2022-03-08 17:39:50.080] > git status --untracked-files=all --porcelain
+[2022-03-08 17:39:56.623] Stopped watching repo: /workspace/gitpod-test--leftover-containers
+[2022-03-08 17:42:52.874] Created Git Graph View
+[2022-03-08 17:42:55.270] > git branch -a --no-color
+[2022-03-08 17:42:55.277] > git remote
+[2022-03-08 17:42:55.283] > git reflog --format=... refs/stash --
+[2022-03-08 17:42:55.285] Started watching repo: /workspace/gitpod-test--leftover-containers
+[2022-03-08 17:42:55.377] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:42:55.384] > git show-ref -d --head
+[2022-03-08 17:42:55.393] > git status --untracked-files=all --porcelain
+[2022-03-08 17:42:55.513] > git --no-pager config --list -z --includes
+[2022-03-08 17:42:55.520] > git --no-pager config --list -z --includes --local
+[2022-03-08 17:42:55.528] > git --no-pager config --list -z --includes --global
+[2022-03-08 17:43:02.614] > git branch -a --no-color
+[2022-03-08 17:43:02.621] > git remote
+[2022-03-08 17:43:02.628] > git reflog --format=... refs/stash --
+[2022-03-08 17:43:02.720] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:43:02.727] > git show-ref -d --head
+[2022-03-08 17:43:02.738] > git status --untracked-files=all --porcelain
+[2022-03-08 17:43:06.830] > git -c log.showSignature=false show --quiet 300b2132258b2359a7bc820b6b3233894e35c512 --format=...
+[2022-03-08 17:43:06.839] > git diff --name-status --find-renames --diff-filter=AMDR -z 300b2132258b2359a7bc820b6b3233894e35c512^ 300b2132258b2359a7bc820b6b3233894e35c512
+[2022-03-08 17:43:06.847] > git diff --numstat --find-renames --diff-filter=AMDR -z 300b2132258b2359a7bc820b6b3233894e35c512^ 300b2132258b2359a7bc820b6b3233894e35c512
+[2022-03-08 17:43:32.717] > git branch -a --no-color
+[2022-03-08 17:43:32.724] > git remote
+[2022-03-08 17:43:32.729] > git reflog --format=... refs/stash --
+[2022-03-08 17:43:32.820] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:43:32.827] > git show-ref -d --head
+[2022-03-08 17:43:32.836] > git status --untracked-files=all --porcelain
+[2022-03-08 17:43:35.126] > git diff --name-status --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:43:35.132] > git diff --numstat --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:43:35.138] > git status -s --untracked-files=all --porcelain -z
+[2022-03-08 17:43:49.748] > git branch -a --no-color
+[2022-03-08 17:43:49.755] > git remote
+[2022-03-08 17:43:49.762] > git reflog --format=... refs/stash --
+[2022-03-08 17:43:49.867] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:43:49.874] > git show-ref -d --head
+[2022-03-08 17:43:49.884] > git status --untracked-files=all --porcelain
+[2022-03-08 17:43:49.980] > git diff --name-status --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:43:49.988] > git diff --numstat --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:43:49.995] > git status -s --untracked-files=all --porcelain -z
+[2022-03-08 17:44:06.998] > git branch -a --no-color
+[2022-03-08 17:44:07.005] > git remote
+[2022-03-08 17:44:07.012] > git reflog --format=... refs/stash --
+[2022-03-08 17:44:07.118] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:44:07.125] > git show-ref -d --head
+[2022-03-08 17:44:07.135] > git status --untracked-files=all --porcelain
+[2022-03-08 17:44:07.228] > git diff --name-status --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:07.234] > git diff --numstat --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:07.241] > git status -s --untracked-files=all --porcelain -z
+[2022-03-08 17:44:14.663] > git branch -a --no-color
+[2022-03-08 17:44:14.670] > git remote
+[2022-03-08 17:44:14.678] > git reflog --format=... refs/stash --
+[2022-03-08 17:44:14.767] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:44:14.774] > git show-ref -d --head
+[2022-03-08 17:44:14.786] > git status --untracked-files=all --porcelain
+[2022-03-08 17:44:14.887] > git diff --name-status --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:14.893] > git diff --numstat --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:14.902] > git status -s --untracked-files=all --porcelain -z
+[2022-03-08 17:44:34.670] > git branch -a --no-color
+[2022-03-08 17:44:34.676] > git remote
+[2022-03-08 17:44:34.682] > git reflog --format=... refs/stash --
+[2022-03-08 17:44:34.772] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:44:34.778] > git show-ref -d --head
+[2022-03-08 17:44:34.787] > git status --untracked-files=all --porcelain
+[2022-03-08 17:44:34.888] > git diff --name-status --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:34.895] > git diff --numstat --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:34.903] > git status -s --untracked-files=all --porcelain -z
+[2022-03-08 17:44:38.647] > git branch -a --no-color
+[2022-03-08 17:44:38.653] > git remote
+[2022-03-08 17:44:38.661] > git reflog --format=... refs/stash --
+[2022-03-08 17:44:38.772] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:44:38.779] > git show-ref -d --head
+[2022-03-08 17:44:38.790] > git status --untracked-files=all --porcelain
+[2022-03-08 17:44:38.886] > git diff --name-status --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:38.892] > git diff --numstat --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:38.899] > git status -s --untracked-files=all --porcelain -z
+[2022-03-08 17:44:43.566] > git branch -a --no-color
+[2022-03-08 17:44:43.573] > git remote
+[2022-03-08 17:44:43.580] > git reflog --format=... refs/stash --
+[2022-03-08 17:44:43.672] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:44:43.679] > git show-ref -d --head
+[2022-03-08 17:44:43.687] > git status --untracked-files=all --porcelain
+[2022-03-08 17:44:43.780] > git diff --name-status --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:43.786] > git diff --numstat --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:43.794] > git status -s --untracked-files=all --porcelain -z
+[2022-03-08 17:44:51.314] > git branch -a --no-color
+[2022-03-08 17:44:51.321] > git remote
+[2022-03-08 17:44:51.326] > git reflog --format=... refs/stash --
+[2022-03-08 17:44:51.417] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-03-08 17:44:51.424] > git show-ref -d --head
+[2022-03-08 17:44:51.433] > git status --untracked-files=all --porcelain
+[2022-03-08 17:44:51.524] > git diff --name-status --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:51.530] > git diff --numstat --find-renames --diff-filter=AMDR -z HEAD
+[2022-03-08 17:44:51.536] > git status -s --untracked-files=all --porcelain -z
+[2022-03-08 17:44:56.980] Stopped watching repo: /workspace/gitpod-test--leftover-containers

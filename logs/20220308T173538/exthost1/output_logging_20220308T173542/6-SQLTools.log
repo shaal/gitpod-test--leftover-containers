@@ -1,0 +1,62 @@
+[1646760955016] INFO  (ext): SQLTools is starting
+[1646760955021] INFO  (ext): initializing language client...
+[1646760955022] INFO  (ext): Registering client for languages [{"scheme":"sqltools"},{"language":"sql","scheme":"untitled"},{"language":"sql","scheme":"file"},{"language":"sql","scheme":"sqltools"}]
+    ns: "lc"
+[1646760955028] INFO  (ext): loading plugins...
+[1646760955028] INFO  (ext): registering Formatter Plugin.
+    plugin: {
+      "name": "Formatter Plugin"
+    }
+[1646760955029] INFO  (ext): registering Connection Manager Plugin.
+    plugin: {
+      "name": "Connection Manager Plugin"
+    }
+[1646760955030] INFO  (ext): registering CodeLens Plugin.
+    plugin: {
+      "name": "CodeLens Plugin",
+      "registeredLanguages": []
+    }
+[1646760955031] INFO  (ext): registering Dependency Manager Plugin.
+    plugin: {
+      "name": "Dependency Manager Plugin",
+      "installingDrivers": []
+    }
+[1646760955033] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1646760955033] INFO  (ext): registering History Manager Plugin.
+    plugin: {
+      "name": "History Manager Plugin"
+    }
+[1646760955034] INFO  (ext): registering Bookmarks Manager Plugin.
+    plugin: {
+      "name": "Bookmarks Manager Plugin"
+    }
+[1646760955035] INFO  (ext): SQLTools activation completed. 18.948697 ms
+[1646760955035] INFO  (ext): Formatter Plugin registered!
+[1646760955035] INFO  (ext): CodeLens Plugin registered!
+[1646760955035] INFO  (ext): Dependency Manager Plugin registered!
+[1646760955036] INFO  (ext): Connection Manager Plugin registered!
+[1646760955036] INFO  (ext): History Manager Plugin registered!
+[1646760955036] INFO  (ext): Bookmarks Manager Plugin registered!
+[1646760955173] INFO  (ls): SQLTools Server started!
+===============================
+Using node runtime?: no
+ExecPath: /ide/node 
+===============================
+[1646760955183] INFO  (ext): LanguageClient ready
+    ns: "lc"
+[1646760956036] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1646760956037] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1646760957033] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1646761128467] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1646761149254] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1646761150380] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1646761151506] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1646761152356] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"

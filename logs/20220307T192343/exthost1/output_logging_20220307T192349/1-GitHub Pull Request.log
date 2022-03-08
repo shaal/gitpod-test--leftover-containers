@@ -1,0 +1,2 @@
+[Info] /home/gitpod/.ssh/config: ENOENT: no such file or directory, open '/home/gitpod/.ssh/config'
+[Info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-remote://shaal-gitpodtestlefto-ee952np6tjt.ws-us34.gitpod.io/workspace/.vscode-remote/data/User/globalStorage/github.vscode-pull-request-github/temp'

@@ -1,0 +1,83 @@
+[2022-03-08 17:35:38.690] [remoteagent] [info] 
+
+
+
+
+[2022-03-08 17:35:38.690] [remoteagent] [info] Extension host agent started.
+[2022-03-08 17:35:40.307] [remoteagent] [info] [192.168.120.195][93ee0e51][ManagementConnection] New connection established.
+[2022-03-08 17:35:40.952] [remoteagent] [info] [192.168.120.195][a3048549][ExtensionHostConnection] New connection established.
+[2022-03-08 17:35:40.960] [remoteagent] [info] [192.168.120.195][a3048549][ExtensionHostConnection] <123> Launched Extension Host Process.
+[2022-03-08 17:35:50.318] [remoteagent] [info] Getting Manifest... alefragnani.bookmarks
+[2022-03-08 17:35:50.327] [remoteagent] [info] Getting Manifest... mhutchie.git-graph
+[2022-03-08 17:35:50.327] [remoteagent] [info] Getting Manifest... rogalmic.bash-debug
+[2022-03-08 17:35:50.350] [remoteagent] [info] Getting Manifest... thenouillet.symfony-vscode
+[2022-03-08 17:35:50.382] [remoteagent] [info] Getting Manifest... jock.svg
+[2022-03-08 17:35:50.417] [remoteagent] [info] Getting Manifest... mtxr.sqltools
+[2022-03-08 17:35:50.432] [remoteagent] [info] Getting Manifest... formulahendry.vscode-mysql
+[2022-03-08 17:35:50.652] [remoteagent] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-03-08 17:35:50.751] [remoteagent] [info] Getting Manifest... eamodio.gitlens
+[2022-03-08 17:35:51.178] [remoteagent] [info] Installing extension: rogalmic.bash-debug
+[2022-03-08 17:35:51.178] [remoteagent] [info] Installing the extension without checking dependencies and pack rogalmic.bash-debug
+[2022-03-08 17:35:51.245] [remoteagent] [info] Installing extension: thenouillet.symfony-vscode
+[2022-03-08 17:35:51.245] [remoteagent] [info] Installing the extension without checking dependencies and pack thenouillet.symfony-vscode
+[2022-03-08 17:35:51.297] [remoteagent] [info] Installing extension: formulahendry.vscode-mysql
+[2022-03-08 17:35:51.297] [remoteagent] [info] Installing the extension without checking dependencies and pack formulahendry.vscode-mysql
+[2022-03-08 17:35:51.299] [remoteagent] [info] Installing extension: alefragnani.bookmarks
+[2022-03-08 17:35:51.299] [remoteagent] [info] Installing the extension without checking dependencies and pack alefragnani.bookmarks
+[2022-03-08 17:35:51.381] [remoteagent] [info] Installing extension: jock.svg
+[2022-03-08 17:35:51.381] [remoteagent] [info] Installing the extension without checking dependencies and pack jock.svg
+[2022-03-08 17:35:51.398] [remoteagent] [info] Installing extension: mtxr.sqltools
+[2022-03-08 17:35:51.398] [remoteagent] [info] Installing the extension without checking dependencies and pack mtxr.sqltools
+[2022-03-08 17:35:51.443] [remoteagent] [info] Installing extension: mhutchie.git-graph
+[2022-03-08 17:35:51.443] [remoteagent] [info] Installing the extension without checking dependencies and pack mhutchie.git-graph
+[2022-03-08 17:35:51.986] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-03-08 17:35:51.986] [remoteagent] [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+[2022-03-08 17:35:52.387] [remoteagent] [info] Installing extension: eamodio.gitlens
+[2022-03-08 17:35:52.387] [remoteagent] [info] Installing the extension without checking dependencies and pack eamodio.gitlens
+[2022-03-08 17:35:52.921] [remoteagent] [info] Downloaded extension: rogalmic.bash-debug /workspace/.vscode-remote/data/CachedExtensionVSIXs/rogalmic.bash-debug-0.3.9
+[2022-03-08 17:35:53.199] [remoteagent] [info] Downloaded extension: formulahendry.vscode-mysql /workspace/.vscode-remote/data/CachedExtensionVSIXs/formulahendry.vscode-mysql-0.4.1
+[2022-03-08 17:35:53.207] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.7dff9100-415a-4d9d-8a86-74d3f4f59fca: rogalmic.bash-debug
+[2022-03-08 17:35:53.213] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/rogalmic.bash-debug-0.3.9
+[2022-03-08 17:35:53.215] [remoteagent] [info] Extracting completed. rogalmic.bash-debug
+[2022-03-08 17:35:53.215] [remoteagent] [info] Extension installed successfully: rogalmic.bash-debug
+[2022-03-08 17:35:53.220] [remoteagent] [info] Downloaded extension: mhutchie.git-graph /workspace/.vscode-remote/data/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0
+[2022-03-08 17:35:53.264] [remoteagent] [info] Downloaded extension: thenouillet.symfony-vscode /workspace/.vscode-remote/data/CachedExtensionVSIXs/thenouillet.symfony-vscode-1.0.2
+[2022-03-08 17:35:53.410] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.0fde09aa-5e20-4a90-8d2b-ff911625fdc8: mhutchie.git-graph
+[2022-03-08 17:35:53.420] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/mhutchie.git-graph-1.30.0
+[2022-03-08 17:35:53.423] [remoteagent] [info] Extracting completed. mhutchie.git-graph
+[2022-03-08 17:35:53.423] [remoteagent] [info] Extension installed successfully: mhutchie.git-graph
+[2022-03-08 17:35:53.465] [remoteagent] [info] Downloaded extension: mtxr.sqltools /workspace/.vscode-remote/data/CachedExtensionVSIXs/mtxr.sqltools-0.23.0
+[2022-03-08 17:35:53.694] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.9af08d2d-e15b-463e-96b3-e375ffec33bb: mtxr.sqltools
+[2022-03-08 17:35:53.705] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/mtxr.sqltools-0.23.0
+[2022-03-08 17:35:53.707] [remoteagent] [info] Extracting completed. mtxr.sqltools
+[2022-03-08 17:35:53.707] [remoteagent] [info] Extension installed successfully: mtxr.sqltools
+[2022-03-08 17:35:53.726] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.fc954063-6762-4478-affd-c1c4078e3b90: thenouillet.symfony-vscode
+[2022-03-08 17:35:53.731] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/thenouillet.symfony-vscode-1.0.2
+[2022-03-08 17:35:53.732] [remoteagent] [info] Extracting completed. thenouillet.symfony-vscode
+[2022-03-08 17:35:53.732] [remoteagent] [info] Extension installed successfully: thenouillet.symfony-vscode
+[2022-03-08 17:35:53.846] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.46b20caa-b8b8-4adb-8f9a-9d350d6e1cfb: formulahendry.vscode-mysql
+[2022-03-08 17:35:53.852] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/formulahendry.vscode-mysql-0.4.1
+[2022-03-08 17:35:53.853] [remoteagent] [info] Extracting completed. formulahendry.vscode-mysql
+[2022-03-08 17:35:53.854] [remoteagent] [info] Extension installed successfully: formulahendry.vscode-mysql
+[2022-03-08 17:35:54.396] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /workspace/.vscode-remote/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.20.0
+[2022-03-08 17:35:54.502] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.14eae31e-1be9-4c0d-90fe-4999ebfcb5d7: ms-azuretools.vscode-docker
+[2022-03-08 17:35:54.511] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.20.0
+[2022-03-08 17:35:54.514] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-03-08 17:35:54.514] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-03-08 17:35:54.698] [remoteagent] [info] Downloaded extension: jock.svg /workspace/.vscode-remote/data/CachedExtensionVSIXs/jock.svg-1.4.1
+[2022-03-08 17:35:54.769] [remoteagent] [info] Downloaded extension: alefragnani.bookmarks /workspace/.vscode-remote/data/CachedExtensionVSIXs/alefragnani.bookmarks-13.0.1
+[2022-03-08 17:35:54.894] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.96f76ea5-53c9-483b-b574-e401e12d9544: jock.svg
+[2022-03-08 17:35:54.900] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/jock.svg-1.4.1
+[2022-03-08 17:35:54.901] [remoteagent] [info] Extracting completed. jock.svg
+[2022-03-08 17:35:54.901] [remoteagent] [info] Extension installed successfully: jock.svg
+[2022-03-08 17:35:54.940] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.87814a50-b27e-45df-b336-539dea57b04d: alefragnani.bookmarks
+[2022-03-08 17:35:54.945] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/alefragnani.bookmarks-13.0.1
+[2022-03-08 17:35:54.946] [remoteagent] [info] Extracting completed. alefragnani.bookmarks
+[2022-03-08 17:35:54.946] [remoteagent] [info] Extension installed successfully: alefragnani.bookmarks
+[2022-03-08 17:35:55.804] [remoteagent] [info] Downloaded extension: eamodio.gitlens /workspace/.vscode-remote/data/CachedExtensionVSIXs/eamodio.gitlens-12.0.1
+[2022-03-08 17:35:56.241] [remoteagent] [info] Extracted extension to /workspace/.vscode-remote/extensions/.5c5f7c38-7ea9-4759-b2cf-2935d2debd8b: eamodio.gitlens
+[2022-03-08 17:35:56.264] [remoteagent] [info] Renamed to /workspace/.vscode-remote/extensions/eamodio.gitlens-12.0.1
+[2022-03-08 17:35:56.270] [remoteagent] [info] Extracting completed. eamodio.gitlens
+[2022-03-08 17:35:56.271] [remoteagent] [info] Extension installed successfully: eamodio.gitlens
+[2022-03-08 17:41:02.419] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /workspace/gitpod-test--leftover-containers)
+[2022-03-08 17:41:02.419] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
